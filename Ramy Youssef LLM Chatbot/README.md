@@ -2,13 +2,21 @@
 
 A Chatbot that mimics Ramy Youssef style of speaking and sense of humor using **Large Language Models** 
 
-
 ![image](https://github.com/Abdelrahman13-coder/LLM-Chatbot/assets/58150666/40a7c456-5f2a-40be-8371-e0edf1f6120a)
 
+### Project steps:
+1. Use a list of Youtube Videos of Ramy's interviews and Standups and use them as knowledge base to our model.
+2. Transform these Youtube Videos into text documents of their transcritpt.
+3. Vectoring these documents using Embedding Model.
+4. Store the embeddings in Vector DB to be retrived.
+5. Provide memory to restore historical conversations.
+6. Semantic search from the Vector DB to get the relevant fragments of information for responding.
+7. Using **Large language Model** for transforming the data to Natural Language.
+8. Use Text to speach to create an enjoyable experince. 
+9. Wrap the text using tkinter GUI
 
 
-### **Tkinter**
-How to use:
+### **Tkinter** How to use:
 - Click on the image and then start speaking and then you will find Ramy himself greating you with his sense of humor
 ![image](https://github.com/Abdelrahman13-coder/LLM-Chatbot/assets/58150666/ba63a3c2-8fe6-4795-90be-19ad0f6c91e1)
 

@@ -25,5 +25,10 @@ A Chatbot that mimics Ramy Youssef style of speaking and sense of humor using **
 ### Useful links
 [Langchain youtube loader](https://python.langchain.com/docs/integrations/document_loaders/youtube_audio)
 
+### Things to improve:
+
+* Clone Ramy Youssef's voice using deep learning to provid more realism to the experice.
+* Develope more sophisticated GUI using HTML, CSS, JavaScript and app with Flask.
+
 ### Why Ramy Youssef
 - As Ramy made a great TV show called **Rami** featured in HULU which made a repesentation of arabs away from the stereotypical prospective protrayed in the media. The show is really funny and features many of Egyption and Arab actors.

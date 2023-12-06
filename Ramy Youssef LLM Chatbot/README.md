@@ -5,7 +5,7 @@ A Chatbot that mimics Ramy Youssef style of speaking and sense of humor using **
 ![image](https://github.com/Abdelrahman13-coder/LLM-Chatbot/assets/58150666/40a7c456-5f2a-40be-8371-e0edf1f6120a)
 
 ### Project steps:
-1. Use a list of Youtube Videos of Ramy's interviews and Standups and use them as knowledge base to our model.
+1. Use a list of Youtube Videos of Ramy's interviews and Standups and use them as knowledge base to our model. ▶️
 2. Transform these Youtube Videos into text documents of their transcritpt.
 3. Vectoring these documents using Embedding Model.
 4. Store the embeddings in Vector DB to be retrived.

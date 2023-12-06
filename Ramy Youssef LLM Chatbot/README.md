@@ -15,3 +15,5 @@ How to use:
 ### Useful links
 [Langchain youtube loader](https://python.langchain.com/docs/integrations/document_loaders/youtube_audio)
 
+### Why Ramy Youssef
+- As Ramy made a great TV show called **Rami** featured in HULU which made a repesentation of arabs away from the stereotypical prospective protrayed in the media. The show is really funny and features many of Egyption and Arab actors.

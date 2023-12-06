@@ -18,7 +18,6 @@ A Chatbot that mimics Ramy Youssef style of speaking and sense of humor using **
 ### LangChain⛓️
 - Imagine LangChain as a LEGO set for building applications with language models (LLMs). Just like LEGO bricks, LangChain provides you with pre-built components called "agents" that you can connect to create complex and powerful applications.
 
-
 ### **Tkinter** How to use:
 - Click on the image and then start speaking and then you will find Ramy himself greating you with his sense of humor
 ![image](https://github.com/Abdelrahman13-coder/LLM-Chatbot/assets/58150666/ba63a3c2-8fe6-4795-90be-19ad0f6c91e1)

@@ -15,6 +15,9 @@ A Chatbot that mimics Ramy Youssef style of speaking and sense of humor using **
 8. Use Text to speach to create an enjoyable experince. 
 9. Wrap the text using tkinter GUI
 
+### LangChain⛓️
+- Imagine LangChain as a LEGO set for building applications with language models (LLMs). Just like LEGO bricks, LangChain provides you with pre-built components called "agents" that you can connect to create complex and powerful applications.
+
 
 ### **Tkinter** How to use:
 - Click on the image and then start speaking and then you will find Ramy himself greating you with his sense of humor

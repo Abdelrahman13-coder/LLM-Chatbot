@@ -21,7 +21,7 @@ Develop a chatbot using Lang Chain or LamaIndex, integrated with OpenAI's GPT-4 
 #### Implementation Steps:
 1. **Setup and Configuration**:
    - Install necessary Python libraries (`openai`, `langchain`, `lamaindex`, etc.).
-   - Set up a placeholder for the API Key (`API_KEY = "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"`).
+   - Set up a placeholder for the API Key (`API_KEY = "sk-"`).
 2. **API Integration**:
    - Configure the OpenAI GPT-4 Turbo API and the chosen Lang Chain or LamaIndex tool.
 3. **Data Collection and Preprocessing**:
